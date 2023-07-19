@@ -18,3 +18,8 @@
   height: 50px;
   background-color: darkgrey;
 }
+
+h2 {
+	border-bottom: solid 3px #27acd9;
+	padding: 10px 0;
+}
